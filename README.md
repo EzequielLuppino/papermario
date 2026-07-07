@@ -3,7 +3,7 @@
 [![Build Status][jenkins-badge]][jenkins]
 [![Discord Channel][discord-badge]][discord]
 
-This is a work-in-progress decompilation of Paper Mario.
+This is a work-in-progress 3DS port of Paper Mario.
 
 It builds the following ROMs:
 
@@ -15,8 +15,6 @@ It builds the following ROMs:
 | iQue   | `5c724685085eba796537573dd6f84aaddedc8582` | [![Progress (iQue)][progress-ique-badge]][progress-ique] |
 
 To set up the repository, see [SETUP.md](SETUP.md).
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to the project. Any and all help is welcome!
 
 Also see our website at [papermar.io](https://papermar.io/).
 
